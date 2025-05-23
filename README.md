@@ -12,7 +12,7 @@
 
 A modern, sleek GTK4 application for downloading high-quality media from various websites. Built with Rust for performance and reliability.
 
-![HyprDownloader Screenshot](https://via.placeholder.com/800x450?text=HyprDownloader+Screenshot)
+![HyprDownloader Screenshot](res/screenshots/main_ui.png)
 
 ## ✨ Features
 

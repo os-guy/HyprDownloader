@@ -532,7 +532,7 @@ pub fn build_ui(app: &Application) {
     // Set window properties
     window.set_destroy_with_parent(false);
     window.set_hide_on_close(false);
-    
+
     // Create a shared resolution map for the form
     let resolution_map = Rc::new(RefCell::new(ResolutionMap::new()));
     
