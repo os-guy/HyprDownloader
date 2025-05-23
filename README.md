@@ -12,7 +12,7 @@
 
 A modern, sleek GTK4 application for downloading high-quality media from various websites. Built with Rust for performance and reliability.
 
-![HyprDownloader Screenshot](https://via.placeholder.com/800x450?text=HyprDownloader+Screenshot)
+![HyprDownloader Screenshot]()
 
 ## ✨ Features
 
@@ -49,8 +49,8 @@ pip install yt-dlp
 sudo pacman -S gtk4 base-devel python-pip
 pip install yt-dlp
 
-# Or install from AUR (future availability)
-# yay -S hyprdownloader
+# Or install with pacman (future availability)
+# pacman -S yt-dlp
 ```
 
 #### Fedora
