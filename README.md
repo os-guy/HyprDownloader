@@ -49,8 +49,8 @@ pip install yt-dlp
 sudo pacman -S gtk4 base-devel python-pip
 pip install yt-dlp
 
-# Or install from AUR (future availability)
-# yay -S hyprdownloader
+# Or install with pacman (future availability)
+# pacman -S yt-dlp
 ```
 
 #### Fedora
